@@ -1,5 +1,5 @@
 # Interactive-rating-component
-This is a nice, small project to practice handling user interactions and updating the DOM. Always could use more JavaScript practice!
+This is a nice, small project to practice handling user interactions and updating the DOM. I made this a part of a challenge on Frontend Mentor. Let me know what you think!
 
 
 
